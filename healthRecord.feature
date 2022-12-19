@@ -37,11 +37,7 @@ Then user complete the month/day/year of born in the "mm/dd/yyyy" field
 Then user verifies if the "Submit" tab exists
 And user clicks on the "Submit" tab
 When the credentials are incorrect or the user is brand new the "Match not found in our system" displays
-<<<<<<< HEAD
-Create a new password - Adrian
-=======
-Then we must create a new account - Daria T
 
 
->>>>>>> 4b3326aac4d4019722e35f2ae8a17979e08ec164
+New testing file
 
